@@ -1,8 +1,8 @@
 {
-  "name": "ped-extension-pack-v-2-0-0",
-  "displayName": "PED-Extension-Pack-v.2.0.0",
+  "name": "ped-extension-pack",
+  "displayName": "PED-Extension-Pack",
   "description": "Internal PED Extension Pack",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.73.0"
   },
