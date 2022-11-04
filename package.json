@@ -2,10 +2,11 @@
 	"name": "ped-extension-pack",
 	"displayName": "PED-Extension-Pack",
 	"description": "Internal PED Extension Pack",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nfleet-Ped/ped-extension-pack"
-  },
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nfleet-Ped/ped-extension-pack"
+	},
 	"publisher": "Nathan Fleetwood",
 	"version": "2.0.0",
 	"engines": {
