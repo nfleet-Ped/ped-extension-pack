@@ -19,7 +19,7 @@
 
 ## Installation
 
-* Download the **.vsix** file
+* Download the latest **[ped-extension-pack-#.#.#.vsix](https://github.com/nfleet-Ped/ped-extension-pack/releases/download/v.2.0.0/ped-extension-pack-2.0.0.vsix)** file
 * Within VSCode, open the Extensions View, click the ... menu, and select "Install from VSIX..."
 ![Install from VSIX button location in VSCode](installVSIXlocation.png)
 * Browse to the downloaded .vsix file and click the **Install** button
