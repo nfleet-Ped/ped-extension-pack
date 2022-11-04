@@ -2,6 +2,11 @@
 	"name": "ped-extension-pack",
 	"displayName": "PED-Extension-Pack",
 	"description": "Internal PED Extension Pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nfleet-Ped/ped-extension-pack"
+  },
+	"publisher": "Nathan Fleetwood",
 	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.73.0"
@@ -17,12 +22,12 @@
 		"donjayamanne.git-extension-pack",
 		"GitHub.vscode-pull-request-github",
 		"atlassian.atlascode",
-    "MS-vsliveshare.vsliveshare-pack",
-    "pkief.material-icon-theme",
-    "waderyan.nodejs-extension-pack",
+		"MS-vsliveshare.vsliveshare-pack",
+		"pkief.material-icon-theme",
+		"waderyan.nodejs-extension-pack",
 		"xdebug.php-debug",
 		"bmewburn.vscode-intelephense-client",
-    "esbenp.prettier-vscode",
-    "MaxvanderSchee.web-accessibility"
+		"esbenp.prettier-vscode",
+		"MaxvanderSchee.web-accessibility"
 	]
 }
