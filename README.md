@@ -17,4 +17,24 @@
 * [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
 
+## Installation
+
+* Download the **.vsix** file
+* Within VSCode, open the Extensions View, click the ... menu, and select "Install from VSIX..."
+![Install from VSIX button location in VSCode](installVSIXlocation.png)
+* Browse to the downloaded .vsix file and click the **Install** button
+
+## Compiling Yourself
+
+If you want to compile the VSIX file on your own, follow these steps.
+
+1. If adding packages: 
+    1. Add the package's unique identifier to the package.json file (available on the Marketplace page)
+    1. Update this README with the package name and Marketplace link
+1. Run the following command to generate a new VSIX file:
+
+```powershell
+vsce package
+```
+
 **Enjoy!**
