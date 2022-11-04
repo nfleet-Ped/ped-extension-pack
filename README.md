@@ -24,22 +24,4 @@
 ![Install from VSIX button location in VSCode](installVSIXlocation.png)
 * Browse to the downloaded .vsix file and click the **Install** button
 
-## Compiling Yourself
-
-If you want to compile the VSIX file on your own, follow these steps.
-
-1. If adding packages:
-    1. Add the package's unique identifier to the package.json file under "extensionPack" (unique identifier found on the extension's Marketplace page)
-    1. Update the package.json file's version properly accordingly
-    1. Update this README with the package name and Marketplace link
-1. Run the following commands to generate a new VSIX file:
-
-    ```powershell
-    npm install
-    ```
-
-    ```powershell
-    npx vsce package
-    ```
-
 **Enjoy!**
